@@ -1,0 +1,3 @@
+[submodule "api/Fusion"]
+	path = api/Fusion
+	url = https://github.com/IgnisCodex/Fusion
