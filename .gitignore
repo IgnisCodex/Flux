@@ -1,2 +1,3 @@
 admin/
-vendor/
+
+.DS_Store
